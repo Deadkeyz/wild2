@@ -1,0 +1,20 @@
+# Environnement Python
+venv/
+.env
+__pycache__/
+*.pyc
+*.pyo
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Données ou modèles lourds
+*.joblib
+*.pkl
+uploads/
+result.csv
+
+# OS et IDE
+.DS_Store
+*.swp
+.vscode/
